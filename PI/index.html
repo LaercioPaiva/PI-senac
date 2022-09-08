@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<title>Organic Foods	</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="/PI/css/main.css">
+	<meta name="author" content="Laércio Paiva, nome-sobremome de todos aqui">
+    <meta name="keywords" content="-------------tags-------------">
+    <meta name="description" content=" -----------uma descricao---------------">
+</head>
+<body class="centralize">
+	<header>
+		<button type="button" class="clear" onclick="logout()">
+			Sair
+		</button>
+	</header>
+	<div class="container">
+		<div class="container-login">
+			<div class="wrap-login">
+				<form class="login-form">
+					<span class="login-form-title">
+						Faça o login
+					</span>
+					<form>
+					<div class="form-field wrap-input margin-top-35 margin-bottom-35">
+						<input class="input-form" type="text" name="email" id="email" autocomplete="off" onchange="onChangeEmail()">
+						<span class="focus-input-form" data-placeholder="E-mail"></span>
+					</div>
+
+					<div class="form-field wrap-input margin-bottom-35">
+						<input class="input-form" type="password" name="password" id="password" onchange="onChangePassword()">
+						<span class="focus-input-form" data-placeholder="Senha"></span>
+					</div>
+
+                    <div class="container-login-form-btn">
+							<button type="button" class="login-form-btn consumer" id="login-button" onclick="login()">Entrar</button>
+					</div>
+     				<br>
+				</form>
+                    <div class="container-login-form-btn">
+						<a class="login-form-btn consumer" href="/PI/telas/newconsumer.html">
+                            Criar conta de Consumidor
+                        </a>
+					</div>
+
+                    <div class="container-login-form-btn">
+						<a class="login-form-btn seller" href="/PI/telas/newseller.html">
+                            Criar conta de Produtor
+                        </a>
+					</div>
+
+					<ul class="login-utils">
+						<li class="margin-bottom-8 margin-top-8">
+							<span class="text1">
+								Esqueceu sua
+							</span>
+
+							<a href="/PI/telas/recover.html" class="text2">
+								senha?
+							</a>
+						</li>
+					</ul>
+				</form>
+			</div>
+			<img src="/PI/images/login.png" width="300" height="300" class="margin-left-50" />
+		</div>
+	</div>
+	
+	<script>
+		let inputs = document.getElementsByClassName('input-form');
+		for (let input of inputs) {
+			input.addEventListener("blur", function() {
+				if(input.value.trim() != ""){
+					input.classList.add("has-val");
+				} else {
+					input.classList.remove("has-val");
+				}
+			});
+		}
+	</script>
+
+<script src="https://www.gstatic.com/firebasejs/9.6.7/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.6.7/firebase-auth-compat.js"></script>
+
+<script src="/PI/js/firebase-init.js"></script>
+<script src="/PI/js/index.js"></script>
+<script src="/PI/js/validations.js"></script>
+<script src="/PI/js/loading.js"></script>
+<script src="/PI/js/index.js"></script>
+<script src="js/home.js"></script>
+
+</body>
+</html>

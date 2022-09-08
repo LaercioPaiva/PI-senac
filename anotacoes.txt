@@ -1,0 +1,21 @@
+o que falta?
+
+PRINCIPALMENTE, CRIAR OS TEXTOS E IMAGENS 
+
+dar alguma estilizada a mais 
+melhorar o carrinho pq ta feio
+botao para sair 
+crud de produtos
+api do paypal para pagamento ou pix
+excluir a duplicidade de codigo que deve ter
+refatorar o codigo
+mudar para o padrao mvc
+
+
+\\\\
+DICA DE CANAL PARA TIRAR DUVIDAS 
+https://www.youtube.com/channel/UCtTfS4ffNNNhGoXzAdklwtQ
+
+la tem videos que ensina tudo que precisamos fazer ainda.
+
+\\\\
