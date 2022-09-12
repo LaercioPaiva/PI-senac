@@ -2,9 +2,9 @@
 
 <h3 align="left"> Projeto Integrador: Aplicativos com valor agregado: vamos empreender!</h3>
 
-Integrando a agricultura familiar no e-commerce
+![Logo](https://user-images.githubusercontent.com/96983432/189636845-2f5aaa15-b36a-450a-939e-e73b46e35670.png) 
 
-![Logo](https://user-images.githubusercontent.com/96983432/189632856-abfd963d-2582-4eff-945c-2a1569934f48.png)
+<h3 align="left"> Organic Foods - Integrando a agricultura familiar no e-commerce</h3>
 
 
 
@@ -30,4 +30,17 @@ Para testar a aplicação, basta baixar o arquivo do projeto em formato zip no l
 arquivo index.html com o seu navegador. Para logar usar o nome de usuário teste11@gmail.com e a senha teste1.
 
 “https://github.com/LaercioPaiva/PI-senac/archive/refs/heads/main.zip” 
+
+
+Grupo:
+
+LAERCIO PAIVA DA SILVA FILHO
+LEONARDO RODRIGUES JONES
+LEONARDO SEVERO ELIAS
+MONICA DIEL
+RENAN INACIO BECKER
+RUTHEMBERG REHEM GAMA JUNIOR
+SILVIO DIEGO MARADONA LEITE
+
+
 
