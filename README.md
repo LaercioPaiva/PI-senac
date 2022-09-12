@@ -26,26 +26,21 @@ adicionar um item, surge com destaque no lado direito da tela o resumo das escol
 a tela com o resumo é suprimida automaticamente. Ao concluir o processo simulado de compra é apresentado uma mensagem final.
 
 Para testar a aplicação, basta baixar o arquivo do projeto em formato zip no link abaixo, extrair o arquivo, acessar a pasta PI e abrir o
-arquivo index.html com o seu navegador. Para logar usar o nome de usuário teste11@gmail.com e a senha teste1.
+arquivo "index.html" com o seu navegador. Para logar usar o nome de usuário "teste11@gmail.com" e a senha "teste1".
 
 https://github.com/LaercioPaiva/PI-senac/archive/refs/heads/main.zip
 
 
 Grupo:
 
-LAERCIO PAIVA DA SILVA FILHO
+Laercio Paiva da Silva Filho;
+Leornardo Rodrigues jones;
+Leornardo Severo Elias;
+Monica Diel;
+Renan Inacio Becker;
+Ruthemberg Rehem Gama junior;
+Silvio Diego Maradona Leite.
 
-LEONARDO RODRIGUES JONES
-
-LEONARDO SEVERO ELIAS
-
-MONICA DIEL
-
-RENAN INACIO BECKER
-
-RUTHEMBERG REHEM GAMA JUNIOR
-
-SILVIO DIEGO MARADONA LEITE
 
 
 
