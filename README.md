@@ -6,14 +6,14 @@
 
 <h3 align="center"> Organic Foods - Integrando a agricultura familiar no e-commerce</h3>
 
-Apresentação
+<h4 align="left">Apresentação</h4>
 
 Este trabalho se trata de um trabalho acadêmico na disciplina Projeto Integrador: Desenvolvimento de sistemas orientado a dispositivos
 móveis e baseados na web. Tem por objetivo propor uma solução em Tecnologia da Informação que busca viabilizar um sistema de e-commerce
 especializado na agricultura familiar que produz alimentos orgânicos, para aproximar famílias produtoras e famílias consumidoras numa única plataforma. 
 O projeto apresentado não tem como objetivo no momento ser uma solução completa, mas apresentar uma jornada simulada a partir de uma visão de produto pensada para a plataforma.
 
-Descrição e Funcionalidades
+<h4 align="left">Descrição e Funcionalidades</h4>
 
 A aplicação web apresenta uma tela inicial de login de usuário, com as opções para criar novas contas de acordo com o perfil desejado 
 (consumidor ou produtor) e com a opção de recuperação de senha. Por se tratar de uma simulação, a aplicação não conta com banco de dados
@@ -29,6 +29,10 @@ arquivo "index.html" com o seu navegador. Para logar usar o nome de usuário "te
 
 https://github.com/LaercioPaiva/PI-senac/archive/refs/heads/main.zip
 
+<h4 align="left">Tecnologias</h4>
+
+Para desenvolvimento do sistema usamos HTML, CSS e JavaScript em todo o desenvolvimento, para validação do usuário foi usado a ferramenta Firebase.
+https://www.gstatic.com/firebasejs/9.6.7/firebase-app-compat.js https://www.gstatic.com/firebasejs/9.6.7/firebase-auth-compat.js
 
 Grupo:
 
