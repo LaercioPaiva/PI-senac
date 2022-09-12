@@ -2,13 +2,18 @@
 
 <h3 align="left"> Projeto Integrador: Aplicativos com valor agregado: vamos empreender!</h3>
 
+Integrando a agricultura familiar no e-commerce
+
+![Logo](https://user-images.githubusercontent.com/96983432/189632856-abfd963d-2582-4eff-945c-2a1569934f48.png)
+
+
+
 Apresentação
 
 Este trabalho se trata de um trabalho acadêmico na disciplina Projeto Integrador: Desenvolvimento de sistemas orientado a dispositivos
 móveis e baseados na web. Tem por objetivo propor uma solução em Tecnologia da Informação que busca viabilizar um sistema de e-commerce
-especializado na agricultura familiar para aproximar famílias produtoras e famílias consumidoras numa única plataforma. 
-O projeto apresentado não tem como objetivo no momento ser uma solução completa, mas apresentar uma jornada simulada a partir de uma visão
-de produto pensada para a plataforma.
+especializado na agricultura familiar que produz alimentos orgânicos, para aproximar famílias produtoras e famílias consumidoras numa única plataforma. 
+O projeto apresentado não tem como objetivo no momento ser uma solução completa, mas apresentar uma jornada simulada a partir de uma visão de produto pensada para a plataforma.
 
 Descrição e Funcionalidades
 
