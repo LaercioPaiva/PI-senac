@@ -2,9 +2,7 @@
 
 <h3 align="left"> Projeto Integrador: Aplicativos com valor agregado: vamos empreender!</h3>
 
-![Logo](https://user-images.githubusercontent.com/96983432/189636845-2f5aaa15-b36a-450a-939e-e73b46e35670.png) 
-
-<h3 align="left"> Organic Foods - Integrando a agricultura familiar no e-commerce</h3>
+![Logo](https://user-images.githubusercontent.com/96983432/189636845-2f5aaa15-b36a-450a-939e-e73b46e35670.png)<h3 align="left"> Organic Foods - Integrando a agricultura familiar no e-commerce</h3>
 
 
 
@@ -29,7 +27,7 @@ a tela com o resumo é suprimida automaticamente. Ao concluir o processo simulad
 Para testar a aplicação, basta baixar o arquivo do projeto em formato zip no link abaixo, extrair o arquivo, acessar a pasta PI e abrir o
 arquivo index.html com o seu navegador. Para logar usar o nome de usuário teste11@gmail.com e a senha teste1.
 
-“https://github.com/LaercioPaiva/PI-senac/archive/refs/heads/main.zip” 
+https://github.com/LaercioPaiva/PI-senac/archive/refs/heads/main.zip
 
 
 Grupo:
