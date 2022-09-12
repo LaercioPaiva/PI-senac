@@ -22,7 +22,7 @@ para criar novos perfis (consumidor ou produtor) é apresentado uma tela de cada
 
 Ao logar, a próxima tela é apresentada a página com os produtos que permite adicionar itens para comprar e a quantidade desejada, ao 
 adicionar um item, surge com destaque no lado direito da tela o resumo das escolhas. Ao excluir todos os itens previamente selecionados
-a tela com o resumo é suprimida automaticamente. Ao concluir o processo simulado de compra é apresentado uma mensagem final.
+a tela com o resumo é suprimida automaticamente.
 
 Para testar a aplicação, basta baixar o arquivo do projeto em formato zip no link abaixo, extrair o arquivo, acessar a pasta PI e abrir o
 arquivo "index.html" com o seu navegador. Para logar usar o nome de usuário "teste11@gmail.com" e a senha "teste1".
