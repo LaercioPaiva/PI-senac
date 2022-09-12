@@ -2,11 +2,9 @@
 
 <h3 align="left"> Projeto Integrador: Aplicativos com valor agregado: vamos empreender!</h3>
 
+![logo](https://user-images.githubusercontent.com/96983432/189639660-2c4f9ac8-9d8c-4123-b2c3-3034ffb3edd9.png)
 
-<p align="center">
-  <img src="[http://some_place.com/image.png](https://user-images.githubusercontent.com/96983432/189636845-2f5aaa15-b36a-450a-939e-e73b46e35670.png)" />
-</p>
-                                                                                                        
+<h3 align="left"> Organic Foods - Integrando a agricultura familiar no e-commerce</h3>
 
 Apresentação
 
