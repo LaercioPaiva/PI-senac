@@ -4,7 +4,7 @@
 
 ![logo](https://user-images.githubusercontent.com/96983432/189639660-2c4f9ac8-9d8c-4123-b2c3-3034ffb3edd9.png)
 
-<h3 align="left"> Organic Foods - Integrando a agricultura familiar no e-commerce</h3>
+<h3 align="center"> Organic Foods - Integrando a agricultura familiar no e-commerce</h3>
 
 Apresentação
 
