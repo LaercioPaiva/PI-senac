@@ -1,8 +1,6 @@
 <h1 align="center"> Projeto Integrador SENAC EAD 2022 </h1>
 
-
-
-Projeto Integrador: Aplicativos com valor agregado: vamos empreender!
+<h3 align="left"> Projeto Integrador: Aplicativos com valor agregado: vamos empreender!</h3>
 
 Apresentação
 
