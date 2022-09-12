@@ -34,7 +34,7 @@ https://github.com/LaercioPaiva/PI-senac/archive/refs/heads/main.zip
 Para desenvolvimento do sistema usamos HTML, CSS e JavaScript em todo o desenvolvimento, para validação do usuário foi usado a ferramenta Firebase.
 https://www.gstatic.com/firebasejs/9.6.7/firebase-app-compat.js https://www.gstatic.com/firebasejs/9.6.7/firebase-auth-compat.js
 
-Grupo:
+<h4 align="left">Grupo:</h4>
 
 Laercio Paiva da Silva Filho;
 Leornardo Rodrigues jones;
@@ -44,7 +44,7 @@ Renan Inacio Becker;
 Ruthemberg Rehem Gama junior;
 Silvio Diego Maradona Leite.
 
-Vídeo de demonstração da aplicação 
+<h4 align="left">Vídeo de demonstração da aplicação</h4>
 
 https://youtu.be/G_uNZ1c4J6A
 
